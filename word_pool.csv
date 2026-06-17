@@ -1,0 +1,39 @@
+word,suggested_chunk,level,pos,theme
+achieve,achieve a goal,1,v,core
+improve,improve my English,1,v,daily
+decide,decide to go,1,v,daily
+prepare,prepare for the trip,1,v,daily
+require,require a visa,1,v,business
+provide,provide support,1,v,business
+available,be available,1,adj,business
+commute,a long commute,1,n,daily
+afford,can afford a car,1,v,living
+rent,rent an apartment,1,v,living
+recommend,recommend a restaurant,2,v,daily
+arrange,arrange a meeting,2,v,business
+attend,attend a meeting,2,v,business
+complain,complain about the noise,2,v,living
+deliver,deliver a package,2,v,living
+appointment,make an appointment,2,n,living
+insurance,health insurance,2,n,living
+lease,sign a lease,2,n,living
+deposit,pay a deposit,2,n,living
+refund,get a refund,2,n,living
+negotiate,negotiate a price,3,v,business
+accomplish,accomplish a task,3,v,business
+reliable,a reliable car,3,adj,living
+estimate,an estimate of the cost,3,n,business
+maintain,maintain a balance,3,v,core
+struggle,struggle with English,3,v,daily
+adjust,adjust to a new life,3,v,living
+expense,monthly expenses,3,n,living
+mortgage,apply for a mortgage,3,n,living
+registration,car registration,3,n,living
+accommodate,accommodate a request,4,v,business
+prioritize,prioritize tasks,4,v,business
+inevitable,an inevitable change,4,adj,core
+deductible,insurance deductible,4,n,living
+itinerary,a travel itinerary,4,n,living
+reimburse,reimburse expenses,4,v,business
+proficient,proficient in English,4,adj,core
+thorough,a thorough check,4,adj,business
