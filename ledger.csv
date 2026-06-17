@@ -1,6 +1,6 @@
 word,chunk,level,status,box,first_seen,last_review,next_due,miss_count,error_tags,note
 decide,decide to go,1,learning,2,2026-06-17,2026-06-17,2026-06-20,0,"","tense注意:一回きりの決断はI decided/I've decided。decide toのto自体はOK"
-afford,can afford a car,1,learning,1,2026-06-17,2026-06-17,2026-06-18,1,"to_omission","afford TO buy。十八番のto抜け"
+afford,can afford a car,1,learning,1,2026-06-17,2026-06-17,2026-06-18,1,"to_omission","to抜けは再演で克服◎ 次の課題:can't afford to buyが自然(have not affordはNG)"
 available,be available,1,learning,2,2026-06-17,2026-06-17,2026-06-20,0,"spelling","availlable→available。Lは1個。be動詞は入ってた"
-appointment,make an appointment,1,learning,1,2026-06-17,2026-06-17,2026-06-18,1,"preposition","make an appointment AT the store/with the doctor。前置詞抜け"
+appointment,make an appointment,1,learning,1,2026-06-17,2026-06-17,2026-06-18,1,"preposition","前置詞withは再演で克服◎ 残り冠詞:with the doctor/at the hospital(with a hospitalは不自然)"
 improve,improve my English,1,learning,2,2026-06-17,2026-06-17,2026-06-20,0,"","完璧。want to improve my English"
