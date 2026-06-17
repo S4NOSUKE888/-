@@ -7,7 +7,6 @@ take,take a break,1,v,core
 do,do the laundry,1,v,core
 have,have a question,1,v,core
 need,need a hand,1,v,core
-want,want to be able to,1,v,core
 know,know what I mean,1,v,core
 think,think about it,1,v,core
 see,see a doctor,1,v,core
@@ -99,7 +98,6 @@ listen,listen carefully,1,v,core
 realize,realize my mistake,1,v,core
 order,order takeout,1,v,living
 join,join a gym,1,v,daily
-prepare,prepare for the trip,1,v,daily
 provide,provide support,1,v,business
 # ===== BAND 1: 基本名詞 =====
 time,save time,1,n,core
@@ -194,9 +192,7 @@ especially,especially today,1,adv,core
 achieve,achieve a goal,1,v,core
 commute,a long commute,1,n,daily
 rent,rent an apartment,1,v,living
-recommend,recommend a restaurant,2,v,daily
 arrange,arrange a meeting,2,v,business
-attend,attend a meeting,2,v,business
 complain,complain about the noise,2,v,living
 deliver,deliver a package,2,v,living
 lease,sign a lease,2,n,living
