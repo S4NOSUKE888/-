@@ -80,7 +80,6 @@ pass,pass the test,1,v,core
 sell,sell a stock,1,v,daily
 require,require a visa,1,v,business
 report,report a problem,1,v,business
-decide,decide to go,1,v,daily
 pull,pull over,1,v,living
 return,return an item,1,v,living
 explain,explain the reason,1,v,core
@@ -101,7 +100,6 @@ realize,realize my mistake,1,v,core
 order,order takeout,1,v,living
 join,join a gym,1,v,daily
 prepare,prepare for the trip,1,v,daily
-improve,improve my English,1,v,daily
 provide,provide support,1,v,business
 # ===== BAND 1: 基本名詞 =====
 time,save time,1,n,core
@@ -142,7 +140,6 @@ grocery_store,a grocery store,1,n,living
 price,a fair price,1,n,living
 bill,pay the bill,1,n,living
 account,a bank account,1,n,living
-appointment,make an appointment,1,n,living
 schedule,a busy schedule,1,n,daily
 weekend,this weekend,1,n,daily
 weather,nice weather,1,n,daily
@@ -171,7 +168,6 @@ sick,call in sick,1,adj,daily
 hungry,get hungry,1,adj,daily
 expensive,too expensive,1,adj,living
 cheap,a cheap option,1,adj,living
-available,be available,1,adj,business
 important,really important,1,adj,core
 different,a different way,1,adj,core
 close,close to home,1,adj,living
@@ -197,7 +193,6 @@ especially,especially today,1,adv,core
 # ===== 既存の38語（残す）=====
 achieve,achieve a goal,1,v,core
 commute,a long commute,1,n,daily
-afford,can afford a car,1,v,living
 rent,rent an apartment,1,v,living
 recommend,recommend a restaurant,2,v,daily
 arrange,arrange a meeting,2,v,business
