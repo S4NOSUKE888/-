@@ -1,11 +1,201 @@
 word,suggested_chunk,level,pos,theme
-achieve,achieve a goal,1,v,core
-improve,improve my English,1,v,daily
-decide,decide to go,1,v,daily
-prepare,prepare for the trip,1,v,daily
+# ===== BAND 1: 最頻出の生活コア（動詞）=====
+get,get a haircut,1,v,core
+go,go grocery shopping,1,v,core
+make,make a decision,1,v,core
+take,take a break,1,v,core
+do,do the laundry,1,v,core
+have,have a question,1,v,core
+need,need a hand,1,v,core
+want,want to be able to,1,v,core
+know,know what I mean,1,v,core
+think,think about it,1,v,core
+see,see a doctor,1,v,core
+look,look for a job,1,v,core
+use,use a coupon,1,v,core
+find,find a place,1,v,core
+give,give it a try,1,v,core
+tell,tell me about it,1,v,core
+work,work from home,1,v,core
+call,call in sick,1,v,core
+try,try it on,1,v,core
+ask,ask for help,1,v,core
+feel,feel sick,1,v,core
+become,become a habit,1,v,core
+leave,leave a message,1,v,core
+put,put it back,1,v,core
+mean,mean to do it,1,v,core
+keep,keep in touch,1,v,core
+let,let me know,1,v,core
+begin,begin a new job,1,v,core
+seem,seem fine,1,v,core
+help,help me out,1,v,core
+talk,talk to a neighbor,1,v,core
+turn,turn it off,1,v,core
+start,start over,1,v,core
+show,show me how,1,v,core
+hear,hear from you,1,v,core
+play,play tennis,1,v,daily
+run,run on a treadmill,1,v,daily
+move,move to Indiana,1,v,living
+live,live in the suburbs,1,v,living
+believe,believe it or not,1,v,core
+bring,bring an umbrella,1,v,core
+happen,happen to know,1,v,core
+write,write it down,1,v,core
+sit,sit in traffic,1,v,daily
+stand,stand in line,1,v,daily
+lose,lose track of time,1,v,core
+pay,pay the bill,1,v,living
+meet,meet up later,1,v,daily
+include,include the tax,1,v,living
+continue,continue the lesson,1,v,core
+set,set an alarm,1,v,daily
+learn,learn the hard way,1,v,core
+change,change my mind,1,v,core
+lead,lead a team,1,v,business
+understand,understand the point,1,v,core
+watch,watch out,1,v,daily
+follow,follow the rules,1,v,core
+stop,stop by,1,v,daily
+spend,spend money,1,v,living
+grow,grow up,1,v,core
+open,open an account,1,v,living
+walk,walk the dog,1,v,daily
+win,win the match,1,v,daily
+offer,offer a discount,1,v,living
+remember,remember to call,1,v,core
+buy,buy groceries,1,v,living
+wait,wait in line,1,v,daily
+serve,serve customers,1,v,business
+send,send an email,1,v,business
+build,build muscle,1,v,daily
+stay,stay in shape,1,v,daily
+fall,fall asleep,1,v,daily
+cut,cut down on sugar,1,v,daily
+reach,reach out to,1,v,business
+kill,kill time,1,v,core
+raise,raise a question,1,v,core
+pass,pass the test,1,v,core
+sell,sell a stock,1,v,daily
 require,require a visa,1,v,business
+report,report a problem,1,v,business
+decide,decide to go,1,v,daily
+pull,pull over,1,v,living
+return,return an item,1,v,living
+explain,explain the reason,1,v,core
+hope,hope so,1,v,core
+develop,develop a skill,1,v,core
+carry,carry cash,1,v,living
+drive,drive to work,1,v,living
+break,break a habit,1,v,daily
+pick,pick up the kids,1,v,living
+wear,wear a jacket,1,v,daily
+catch,catch a cold,1,v,daily
+draw,draw a line,1,v,core
+choose,choose an option,1,v,core
+cause,cause a problem,1,v,core
+point,point it out,1,v,core
+listen,listen carefully,1,v,core
+realize,realize my mistake,1,v,core
+order,order takeout,1,v,living
+join,join a gym,1,v,daily
+prepare,prepare for the trip,1,v,daily
+improve,improve my English,1,v,daily
 provide,provide support,1,v,business
+# ===== BAND 1: 基本名詞 =====
+time,save time,1,n,core
+day,day off,1,n,core
+way,a better way,1,n,core
+year,this year,1,n,core
+people,a lot of people,1,n,core
+thing,the main thing,1,n,core
+man,an older man,1,n,core
+woman,a young woman,1,n,core
+kid,pick up the kids,1,n,living
+life,daily life,1,n,core
+hand,give me a hand,1,n,core
+part,a big part,1,n,core
+place,a quiet place,1,n,core
+week,last week,1,n,core
+month,every month,1,n,core
+company,a big company,1,n,business
+problem,a small problem,1,n,core
+fact,in fact,1,n,core
+money,save money,1,n,living
+home,work from home,1,n,living
+water,a glass of water,1,n,living
+room,a spare room,1,n,living
+car,a reliable car,1,n,living
+job,a new job,1,n,business
+house,a big house,1,n,living
+friend,an old friend,1,n,daily
+food,fast food,1,n,living
+night,last night,1,n,core
+morning,early morning,1,n,daily
+office,at the office,1,n,business
+team,on the team,1,n,business
+meeting,a quick meeting,1,n,business
+phone,answer the phone,1,n,daily
+email,send an email,1,n,business
+grocery_store,a grocery store,1,n,living
+price,a fair price,1,n,living
+bill,pay the bill,1,n,living
+account,a bank account,1,n,living
+appointment,make an appointment,1,n,living
+schedule,a busy schedule,1,n,daily
+weekend,this weekend,1,n,daily
+weather,nice weather,1,n,daily
+gym,go to the gym,1,n,daily
+neighbor,a friendly neighbor,1,n,living
+question,a quick question,1,n,core
+reason,the main reason,1,n,core
+idea,a good idea,1,n,core
+chance,a second chance,1,n,core
+mistake,make a mistake,1,n,core
+break,take a break,1,n,daily
+# ===== BAND 1: 基本形容詞・副詞 =====
+good,a good deal,1,adj,core
+new,a new car,1,adj,core
+busy,a busy day,1,adj,daily
+free,free time,1,adj,daily
+ready,be ready,1,adj,core
+sure,not sure,1,adj,core
+right,the right way,1,adj,core
+hard,a hard day,1,adj,core
+easy,take it easy,1,adj,core
+late,running late,1,adj,daily
+early,wake up early,1,adj,daily
+tired,feel tired,1,adj,daily
+sick,call in sick,1,adj,daily
+hungry,get hungry,1,adj,daily
+expensive,too expensive,1,adj,living
+cheap,a cheap option,1,adj,living
 available,be available,1,adj,business
+important,really important,1,adj,core
+different,a different way,1,adj,core
+close,close to home,1,adj,living
+fine,I'm fine,1,adj,core
+quick,a quick question,1,adj,core
+clean,a clean room,1,adj,living
+careful,be careful,1,adj,core
+worried,a little worried,1,adj,daily
+nervous,feel nervous,1,adj,daily
+comfortable,feel comfortable,1,adj,daily
+familiar,sound familiar,1,adj,core
+# ===== BAND 1: 使えるフレーズ・つなぎ =====
+maybe,maybe later,1,adv,core
+actually,actually no,1,adv,core
+probably,probably not,1,adv,core
+almost,almost done,1,adv,core
+already,already left,1,adv,core
+anyway,anyway moving on,1,adv,core
+instead,instead of that,1,adv,core
+though,it's fine though,1,adv,core
+enough,good enough,1,adv,core
+especially,especially today,1,adv,core
+# ===== 既存の38語（残す）=====
+achieve,achieve a goal,1,v,core
 commute,a long commute,1,n,daily
 afford,can afford a car,1,v,living
 rent,rent an apartment,1,v,living
@@ -14,8 +204,6 @@ arrange,arrange a meeting,2,v,business
 attend,attend a meeting,2,v,business
 complain,complain about the noise,2,v,living
 deliver,deliver a package,2,v,living
-appointment,make an appointment,2,n,living
-insurance,health insurance,2,n,living
 lease,sign a lease,2,n,living
 deposit,pay a deposit,2,n,living
 refund,get a refund,2,n,living
