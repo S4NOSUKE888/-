@@ -9,3 +9,6 @@ attend,attend a meeting,2,learning,2,2026-06-17,2026-06-17,2026-06-20,0,"","atte
 recommend,recommend a restaurant,2,learning,2,2026-06-17,2026-06-17,2026-06-20,0,"","recommend this item◎ 文句なし"
 prepare,prepare for the trip,1,learning,2,2026-06-17,2026-06-17,2026-06-20,0,"","prepare for◎ 前置詞OK。tenseだけ:I'm preparing/I need to prepare"
 call,call in sick,1,learning,2,2026-06-17,2026-06-17,2026-06-20,0,"","call in sick句動詞◎ tense:過去ならcalled。call in sickは仕事の病欠向け(学校はcall the school)"
+let,let me know,1,learning,2,2026-06-18,2026-06-18,2026-06-21,0,"","Let me know how to use the app◎ 完璧。box2昇格"
+move,move to Indiana,1,learning,2,2026-06-18,2026-06-18,2026-06-21,0,"prep_time","move to Indiana◎ ただしat next summer→next summer(next/last/thisには前置詞不要)。box2昇格"
+open,open an account,1,learning,2,2026-06-18,2026-06-18,2026-06-21,0,"preposition,article","open a checking account◎ ただしarrive US→arrive in the US(前置詞in+冠詞the必要)。box2昇格"
