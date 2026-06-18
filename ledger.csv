@@ -1,8 +1,8 @@
 word,chunk,level,status,box,first_seen,last_review,next_due,miss_count,error_tags,note
 decide,decide to go,1,learning,2,2026-06-17,2026-06-17,2026-06-20,0,"","tense注意:一回きりの決断はI decided/I've decided。decide toのto自体はOK"
-afford,can afford a car,1,learning,1,2026-06-17,2026-06-17,2026-06-18,1,"to_omission","to抜けは再演で克服◎ 次の課題:can't afford to buyが自然(have not affordはNG)"
+afford,can afford a car,1,learning,2,2026-06-17,2026-06-18,2026-06-21,2,"to_omission,article","can't afford to pay the rent産出◎ 冠詞(for the apartment)は要注意。box2昇格"
 available,be available,1,learning,2,2026-06-17,2026-06-17,2026-06-20,0,"spelling","availlable→available。Lは1個。be動詞は入ってた"
-appointment,make an appointment,1,learning,1,2026-06-17,2026-06-17,2026-06-18,1,"preposition","前置詞withは再演で克服◎ 残り冠詞:with the doctor/at the hospital(with a hospitalは不自然)"
+appointment,make an appointment,1,learning,2,2026-06-17,2026-06-18,2026-06-21,2,"preposition,collocation","make an appointment with the doctor完璧◎ make/withが定着。box2昇格"
 improve,improve my English,1,learning,2,2026-06-17,2026-06-17,2026-06-20,0,"","完璧。want to improve my English"
 want,want to be able to,1,learning,2,2026-06-17,2026-06-17,2026-06-20,1,"want_to_be_able","ノーヒントで完璧産出◎ I want to be able to shop in English by this summer。to+原形も習得。box2昇格"
 attend,attend a meeting,2,learning,2,2026-06-17,2026-06-17,2026-06-20,0,"","attend the meeting◎ 罠のattend toを回避。tenseだけ自然に"
